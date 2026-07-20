@@ -1,0 +1,31 @@
+{
+  "name": "harryroom-marketplace",
+  "owner": {
+    "name": "HarryRoom (fork of Headroom by Headroom Contributors)"
+  },
+  "metadata": {
+    "description": "HarryRoom (personal fork of Headroom) marketplace for Claude Code and GitHub Copilot CLI plugins.",
+    "version": "0.31.0"
+  },
+  "plugins": [
+    {
+      "name": "harryroom",
+      "source": "./plugins/headroom-agent-hooks",
+      "description": "HarryRoom (personal fork of Headroom) startup hooks for Claude Code and GitHub Copilot CLI. Wraps the underlying `headroom` CLI unchanged.",
+      "version": "0.31.0",
+      "author": {
+        "name": "HarryRoom (fork of Headroom by Headroom Contributors)",
+        "url": "https://github.com/chopratejas/headroom"
+      },
+      "homepage": "https://github.com/chopratejas/headroom",
+      "repository": "https://github.com/chopratejas/headroom",
+      "keywords": [
+        "harryroom",
+        "headroom",
+        "hooks",
+        "claude-code",
+        "copilot-cli"
+      ]
+    }
+  ]
+}
