@@ -34,7 +34,7 @@
 		"@types/node": "^26.1.1",
 		"@types/react": "^19.2.17",
 		"@types/react-dom": "^19.2.3",
-		"ai": "^6.0.149",
+		"ai": "^7.0.31",
 		"openai": "^6.33.0",
 		"postcss": "^8.5.16",
 		"tailwindcss": "^4.2.2",
