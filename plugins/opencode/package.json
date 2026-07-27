@@ -17,7 +17,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@opencode-ai/plugin": "^1.17.16",
+    "@opencode-ai/plugin": "^1.18.7",
     "headroom-ai": "^0.22.3"
   },
   "peerDependencies": {
@@ -37,7 +37,7 @@
     }
   },
   "devDependencies": {
-    "@types/node": "^26.1.1",
+    "@types/node": "^26.1.2",
     "tsup": "^8.0.0",
     "typescript": "^5.5.0",
     "vitest": "^4.1.10"
